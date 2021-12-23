@@ -1,0 +1,54 @@
+body {
+  background-color: rgb(135, 181, 181);
+}
+
+#edit {
+  text-align: center;
+  width: 700px;
+  margin: auto;
+
+}
+
+.header {
+  background-color: rgb(76, 162, 162);
+  margin-bottom: 0px;
+}
+
+#editor {
+  width: 99%;
+  height: 200px;
+  margin: auto;
+}
+
+#previewer {
+  margin: 0px;
+  border-style: ridge;
+}
+
+#previewer-board {
+  font-size: 20px;
+  margin: auto;
+  margin-top: 70px;
+  width: 1000px;
+  border-style: ridge;
+}
+
+img {
+  width: 100%;
+}
+
+#editor, #preview {
+  background-color: rgb(192, 216, 216);
+}
+
+h1 {
+  margin: 0px;
+}
+
+#preview {
+    padding: 30px;
+}
+
+p {
+  margin: 0px;
+}
