@@ -17,5 +17,5 @@ My CodePen Account: https://codepen.io/roywong013
 ### 3. REACT
 - Project:
   - [X] [Markdown Previewer](https://codepen.io/roywong013/pen/mdBBGvp) (23-Dec-2021)
-  - [X] [JavaScript Calculator(FreeCodeCamp Project](https://codepen.io/roywong013/pen/YzraOBm) (3-Jan-2022)
+  - [X] [JavaScript Calculator(FreeCodeCamp Project)](https://codepen.io/roywong013/pen/YzraOBm) (3-Jan-2022)
   - [ ] [IOS Calculator(Not Completed)](https://codepen.io/roywong013/pen/JjrLZoV)
