@@ -20,3 +20,7 @@ My CodePen Account: https://codepen.io/roywong013
   - [X] [JavaScript Calculator(FreeCodeCamp Project)](https://codepen.io/roywong013/pen/YzraOBm) (3-Jan-2022)
   - [ ] [IOS Calculator(Not Completed)](https://codepen.io/roywong013/pen/JjrLZoV)
   - [X] [Mark Six Random Number Generator](https://codepen.io/roywong013/pen/qBPYMvJ) (4-Jan-2022)
+
+
+- Functional Component Project:
+  - 
