@@ -27,3 +27,4 @@ My CodePen Account: https://codepen.io/roywong013
 ### Functional Component Project:
   - [X] [Drum Machine](https://codepen.io/roywong013/pen/yLzxZWX) (10-Jan-22)
   - [X] [Get KeyCode](https://codepen.io/roywong013/pen/bGoQBoJ) (14-Jan-22)
+  - [X] [25 + 5 Clock](https://codepen.io/roywong013/pen/YzrRMvG) (17-Jan-22)
