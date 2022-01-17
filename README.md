@@ -25,4 +25,4 @@ My CodePen Account: https://codepen.io/roywong013
 
 
 ### Functional Component Project:
-  - 
+  - [X] [Drum Machine](https://codepen.io/roywong013/pen/yLzxZWX) (10-Jan-22)
